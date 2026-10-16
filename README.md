@@ -27,3 +27,22 @@
 
 ---
 ⭐ "Consistency is the key to success!"
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevgurjar&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevgurjar&layout=compact&theme=tokyonight)
+
+---
+⭐ Thanks for visiting my profile!
