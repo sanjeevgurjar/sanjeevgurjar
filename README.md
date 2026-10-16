@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjeev Gurjar
 
-<!--
-**sanjeevgurjar/sanjeevgurjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Invertis University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning Java Programming
+
+### 🚀 My Goals
+- Learn Java and Data Structures
+- Improve my Problem-Solving Skills
+- Build Real-World Projects
+- Get an Internship in IT
+
+### 🛠️ Skills
+- Java (Beginner)
+- C Programming (Learning)
+- HTML & CSS (Learning)
+
+### 📚 Currently Working On
+- Learning Programming Fundamentals
+- Practicing Java Programs
+- Building My First Projects
+
+### 📫 Connect With Me
+- GitHub: [My Profile](https://github.com/sanjeevgurjar)
+
+---
+⭐ "Consistency is the key to success!"
